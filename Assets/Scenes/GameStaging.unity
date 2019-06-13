@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 23.399994}
+  m_AnchoredPosition: {x: 0, y: 23.400024}
   m_SizeDelta: {x: 160, y: 13.85}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &320184160
@@ -506,6 +506,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabs:
   - {fileID: 1472260953604218, guid: bed5e50ee6132d7498903b2e6cee8cd3, type: 3}
+  - {fileID: 5935956448223190167, guid: 90ea2e5c238194ddc8fabd2597997578, type: 3}
+  - {fileID: 548324685}
+  - {fileID: 8647217012951129496, guid: 8fae74bbb148b4f44afc3e041a2db011, type: 3}
+  - {fileID: 5857708729281127821, guid: 82376441553d94ec0bccf36f62e66bec, type: 3}
+  - {fileID: 1986782924109965669, guid: 93c41dd6f2b8a4a0697bc0fb05c6dd33, type: 3}
+  - {fileID: 1472260953604218, guid: bed5e50ee6132d7498903b2e6cee8cd3, type: 3}
+  - {fileID: 1472260953604218, guid: bed5e50ee6132d7498903b2e6cee8cd3, type: 3}
+  - {fileID: 5935956448223190167, guid: 90ea2e5c238194ddc8fabd2597997578, type: 3}
+  - {fileID: 5935956448223190167, guid: 90ea2e5c238194ddc8fabd2597997578, type: 3}
+  - {fileID: 7820089860590758502, guid: a98e6b4167a40417a8672a6fad6e23fe, type: 3}
+  - {fileID: 7820089860590758502, guid: a98e6b4167a40417a8672a6fad6e23fe, type: 3}
   delay: 2
   active: 1
   delayRange: {x: 1, y: 2}
